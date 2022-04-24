@@ -1,7 +1,7 @@
 name: panel-env
 channels:
   - defaults
-  - pyviz
+  - conda-forge
 dependencies:
   - jupyter-panel-proxy
   - argon2-cffi=21.3.0=pyhd3eb1b0_0
